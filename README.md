@@ -7,7 +7,7 @@ Features:
 
 *Checks for NuGet Package Provider and  PS Windows Update Module
 
-*Downloads and installs packages following aggreement 
+*Downloads and installs packages following agreement 
 
 Note:
 Be sure to set execution policy to "RemoteSigned" prior to running
