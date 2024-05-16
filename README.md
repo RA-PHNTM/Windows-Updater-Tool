@@ -1,6 +1,6 @@
 # Windows-Updater-Tool
 
-Tool that automates download/install of system and driver updates, also prompts user in case updates are unneeded or interfere with operations.
+Tool/PowerShell script that automates download/install of system and driver updates, also prompts user in case updates are unneeded or interfere with operations.
 
 
 Features:
